@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Bill Gates",
+      "position": "CEO of Microsoft",
+      "age": 65,
+      "country": "USA",
+      "netWorth": 1310000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRRCxLCTYSfBO8nO2N1PqxPzGT9NdQrJumkQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Mark Zuckerberg",
+      "position": "CEO of Facebook",
+      "age": 37,
+      "country": "USA",
+      "netWorth": 1220000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqbbVm9-sGfSJHbJTRYKLy2LSEiFJJM2lzA&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Jeff Bezos",
+      "position": "CEO of Amazon",
+      "age": 57,
+      "country": "USA",
+      "netWorth": 1960000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfn4EigH1Ipb_mEgq_E9fmrfmPnS2jQ0oPg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Elon Musk",
+      "position": "CEO of Tesla Motors",
+      "age": 50,
+      "country": "USA",
+      "netWorth": 1940000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0UNyaimfymGVCzTubncCuYc25AcGf_oHzA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Bernard Arnault",
+      "position": "CEO of LVMH",
+      "age": 72,
+      "country": "France",
+      "netWorth": 1810000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1DyALuTHseqfZ9IUdj1NuZFT5bylT-6wrQ&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Larry Page",
+      "position": "CEO of Google",
+      "age": 48,
+      "country": "USA",
+      "netWorth": 1200000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1Q6scdYqBwPeTmPqAsi86krf7LHdTkcTkQ&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Larry Ellison",
+      "position": "CEO of Oracle Corporation",
+      "age": 77,
+      "country": "USA",
+      "netWorth": 1140000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTojYpL1Ot_CNYPdOvnB9MSLfSfdbWkTIOmfQ&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Warren Buffett",
+      "position": "CEO of Berkshire Hathaway",
+      "age": 91,
+      "country": "USA",
+      "netWorth": 990000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF64gdOkud9qFQKibCmYS7DdgCRhcmXwfcCw&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Sergey Brin",
+      "position": "Co-founder of Google",
+      "age": 48,
+      "country": "USA",
+      "netWorth": 1150000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3UloIljskLGkaosKzda9vwtx2OJUr35cQw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "Sundar Pichai",
+      "position": "CEO of Alphabet",
+      "age": 49,
+      "country": "USA",
+      "netWorth": 120000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzx3Aw2DiWRdUau1UpHS17fc8b9q6q8bFug&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "name": "Eric Schmidt",
+      "position": "CEO of Google",
+      "age": 66,
+      "country": "USA",
+      "netWorth": 2300000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A1F9adIi3w14GaGSRH464EgfoEcKwULpnw&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "name": "Mukesh Ambani",
+      "position": "CEO of Reliance Industries Ltd.",
+      "age": 64,
+      "country": "India",
+      "netWorth": 9600000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QHQOxcwD_AsOH2jbnp0sJ9z6lw2L1S93LQ&usqp=CAU"
+    }
+  ]
