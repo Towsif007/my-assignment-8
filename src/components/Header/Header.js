@@ -1,9 +1,15 @@
 import React from 'react';
+import './Header.css';
+
 
 const Header = () => {
     return (
-        <div>
-            <h1>Billioniare</h1>
+        <div className="header">
+         
+         <h1>I Have Made My Billioniares Team</h1>
+            <p>Work hard, stay on your goal and make yourself billioniare</p>
+            <h1>Total Assets: 1000 Trillion</h1>
+        
         </div>
     );
 };
