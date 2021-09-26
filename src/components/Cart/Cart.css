@@ -1,15 +1,18 @@
 .cart-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    margin-top: 0px;
-    margin-left: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
 }
 
 .billionare-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    padding: 50px;
-    margin: 0px;
-    
-    
+    grid-gap: 30px;
+    padding: 40px; 
+}
+
+.added-place{
+    margin-right: 80px;
 }

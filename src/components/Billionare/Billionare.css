@@ -2,7 +2,6 @@
     background: rgb(191, 179, 245);
     height: 550px;
     padding: 10px;
-    margin: 10px;
     box-shadow: 10px 10px 60px whitesmoke;
     border-radius: 10px;
 }
@@ -10,4 +9,13 @@
 .single-cart img{
     width: auto;
     padding: 10px;
+}
+
+.add-button{
+    background-color: rgba(0, 0, 255, 0.61);
+    color: cornsilk;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
 }
