@@ -1,3 +1,4 @@
+/* single cart  */
 .single-cart{
     background: rgb(191, 179, 245);
     height: 550px;
@@ -6,6 +7,7 @@
     border-radius: 10px;
 }
 
+/* single cart img  */
 .single-cart img{
     width: auto;
     padding: 10px;

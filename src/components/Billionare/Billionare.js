@@ -5,9 +5,13 @@ import './Billionare.css'
 
 const billionare = (props) => {
     // console.log(props);
+    // Destructuring 
     const {img, name, position, age, country, netWorth} = props.billioniare;
+
     const cartIcon = <FontAwesomeIcon icon={ faShoppingCart} />
     return (
+
+        // All Cart Data take from json file
      <div className='billionar-details'>
          <div className="single-cart">
             <img src={img} alt="" />
